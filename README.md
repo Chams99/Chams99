@@ -94,25 +94,25 @@ Currently pursuing a **Bachelor’s in Software Engineering (Université de Gafs
       <h3>Fitness App</h3>
       <p>Mobile fitness app with AI integration, object recognition, and Git APIs for dynamic data.</p>
       <a href="https://github.com/youssefsz/fitness_app" target="_blank">
-        <img src="[https://raw.githubusercontent.com/youssefsz/fitness_app/main/preview.png](https://chames.youssef.tn/Images/optimized/Fitness-large.webp)" width="350"/>
+        <img src="https://chames.youssef.tn/Images/optimized/Fitness-large.webp" width="350"/>
       </a>
       <p><b>Stack:</b> Flutter, Dart, AI APIs</p>
     </td>
   </tr>
-  <tr>
+    <tr>
     <td width="50%" align="center">
-      <h3>Energy Portfolio</h3>
-      <p>Modern portfolio built with Next.js 14, React, and Tailwind CSS.</p>
-      <a href="https://chames.youssef.tn" target="_blank">
-        <img src="https://raw.githubusercontent.com/youssefsz/portfolio/main/preview.png" width="350"/>
+      <h3>Unit Converter</h3>
+      <p>All-in-one unit conversion web app supporting length, weight, temperature, energy, and more.</p>
+      <a href="https://unit-converter-sq3u.vercel.app/" target="_blank">
+        <img src="https://chames.youssef.tn/Images/optimized/converter-large.webp" width="350"/>
       </a>
-      <p><b>Stack:</b> Next.js, React, Tailwind</p>
+      <p><b>Stack:</b> Next.js, React, Tailwind CSS</p>
     </td>
     <td width="50%" align="center">
       <h3>LoLChat – AI Chatbot</h3>
       <p>AI-powered League of Legends chatbot with voice synthesis and contextual NLP.</p>
       <a href="https://github.com/youssefsz/LoLChat" target="_blank">
-        <img src="https://raw.githubusercontent.com/youssefsz/LoLChat/main/preview.png" width="350"/>
+        <img src="https://chames.youssef.tn/Images/optimized/lol-large.webp" width="350"/>
       </a>
       <p><b>Stack:</b> FastAPI, OpenAI API, Docker, spaCy</p>
     </td>
