@@ -86,7 +86,7 @@ Currently pursuing a **Bachelor’s in Software Engineering (Université de Gafs
       <h3>Lava – E-commerce Platform</h3>
       <p>Full-stack e-commerce app with authentication, product management, cart, and payment integration.</p>
       <a href="https://github.com/youssefsz/lava" target="_blank">
-        <img src="[https://raw.githubusercontent.com/youssefsz/lava/main/preview.png](https://chames.youssef.tn/Images/optimized/ecommerce-large.webp)" width="350"/>
+        <img src="https://chames.youssef.tn/Images/optimized/ecommerce-large.webp" width="350"/>
       </a>
       <p><b>Stack:</b> Node.js, Express, MongoDB, EJS</p>
     </td>
