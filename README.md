@@ -94,7 +94,7 @@ Currently pursuing a **Bachelor’s in Software Engineering (Université de Gafs
       <h3>Fitness App</h3>
       <p>Mobile fitness app with AI integration, object recognition, and Git APIs for dynamic data.</p>
       <a href="https://github.com/youssefsz/fitness_app" target="_blank">
-        <img src="https://raw.githubusercontent.com/youssefsz/fitness_app/main/preview.png" width="350"/>
+        <img src="[https://raw.githubusercontent.com/youssefsz/fitness_app/main/preview.png](https://chames.youssef.tn/Images/optimized/Fitness-large.webp)" width="350"/>
       </a>
       <p><b>Stack:</b> Flutter, Dart, AI APIs</p>
     </td>
