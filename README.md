@@ -21,7 +21,7 @@ I specialize in building **modern, scalable, and AI-powered applications** using
 Currently pursuing a **Bachelor’s in Software Engineering (Université de Gafsa, 2023–2026)**.  
 
 - 🌍 Portfolio: [chames.youssef.tn](https://chames.youssef.tn)  
-- 💼 Freelancer on [Upwork](https://www.upwork.com/freelancers/~01ec2dc27e0c617399)  
+- 💼 Freelancer on [Upwork]([https://www.upwork.com/freelancers/~01ec2dc27e0c617399](https://shorturl.at/AJA9e))  
 - ⚡ Fun fact: I love integrating **AI into real-time apps**.  
 
 ---
