@@ -5,7 +5,7 @@
   <a href="https://chames.youssef.tn">
     <img src="https://img.shields.io/badge/Portfolio-chames.youssef.tn-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://www.upwork.com/freelancers/~018d73a89101d4651b">
+  <a href="https://www.upwork.com/freelancers/~01ec2dc27e0c617399">
     <img src="https://img.shields.io/badge/Upwork-Profile-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
   </a>
   <a href="mailto:dhibichams@gmail.com">
