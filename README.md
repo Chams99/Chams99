@@ -86,7 +86,7 @@ Currently pursuing a **Bachelor’s in Software Engineering (Université de Gafs
       <h3>Lava – E-commerce Platform</h3>
       <p>Full-stack e-commerce app with authentication, product management, cart, and payment integration.</p>
       <a href="https://github.com/chams99/lava" target="_blank">
-        <img src="https://chames.dhibi.tn/Images/optimized/ecommerce-large.webp" width="350"/>
+        <img src="https://chames.dhibi.tn/images/optimized/ecommerce-large.webp" width="350"/>
       </a>
       <p><b>Stack:</b> Node.js, Express, MongoDB, EJS</p>
     </td>
@@ -94,7 +94,7 @@ Currently pursuing a **Bachelor’s in Software Engineering (Université de Gafs
       <h3>Fitness App</h3>
       <p>Mobile fitness app with AI integration, object recognition, and Git APIs for dynamic data.</p>
       <a href="https://github.com/chams99/fitness_app" target="_blank">
-        <img src="https://chames.dhibi.tn/Images/optimized/Fitness-large.webp" width="350"/>
+        <img src="https://chames.dhibi.tn/images/optimized/Fitness-large.webp" width="350"/>
       </a>
       <p><b>Stack:</b> Flutter, Dart, AI APIs</p>
     </td>
@@ -104,7 +104,7 @@ Currently pursuing a **Bachelor’s in Software Engineering (Université de Gafs
       <h3>Unit Converter</h3>
       <p>All-in-one unit conversion web app supporting length, weight, temperature, energy, and more.</p>
       <a href="https://unit-converter-sq3u.vercel.app/" target="_blank">
-        <img src="https://chames.dhibi.tn/Images/optimized/converter-large.webp" width="350"/>
+        <img src="https://chames.dhibi.tn/images/optimized/converter-large.webp" width="350"/>
       </a>
       <p><b>Stack:</b> Next.js, React, Tailwind CSS</p>
     </td>
@@ -112,7 +112,7 @@ Currently pursuing a **Bachelor’s in Software Engineering (Université de Gafs
       <h3>LoLChat – AI Chatbot</h3>
       <p>AI-powered League of Legends chatbot with voice synthesis and contextual NLP.</p>
       <a href="https://github.com/chams99/LoLChat" target="_blank">
-        <img src="https://chames.dhibi.tn/Images/optimized/lol-large.webp" width="350"/>
+        <img src="https://chames.dhibi.tn/images/optimized/lol-large.webp" width="350"/>
       </a>
       <p><b>Stack:</b> FastAPI, OpenAI API, Docker, spaCy</p>
     </td>
