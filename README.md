@@ -29,7 +29,6 @@ const chames = {
   education: "B.Sc. Software Engineering @ Universite de Gafsa (2023-2026)",
   languages: ["Arabic (Native)", "English (C1)", "French (B1)"],
   focus:     ["Real-time AI apps", "Scalable APIs", "Cross-platform mobile"],
-  fun:       "I ship AI into production before it's trendy",
 };
 ```
 
@@ -41,11 +40,11 @@ const chames = {
 
 **Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,dart,python,php,mysql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,dart,python,php,mysql,html&theme=dark)](https://skillicons.dev)
 
 **Frontend & Mobile**
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,html,css&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,css&theme=dark)](https://skillicons.dev)
 
 **Backend & APIs**
 
@@ -69,10 +68,12 @@ const chames = {
 
 | Project | Description | Stack | Links |
 |:--------|:------------|:------|:------|
-| <img src="https://api.iconify.design/lucide/shopping-bag.svg?color=%238E54E9" width="16" height="16" align="absmiddle"/> **Lava – E-Commerce** | Full-stack store with auth, product management, cart & payments | `Node.js` `Express` `MongoDB` `EJS` | [![GitHub](https://img.shields.io/badge/-Repo-181717?style=flat&logo=github)](https://github.com/chams99/lava) |
-| <img src="https://api.iconify.design/lucide/dumbbell.svg?color=%234776E6" width="16" height="16" align="absmiddle"/> **Fitness App** | Mobile fitness app with AI object recognition & Git API data | `Flutter` `Dart` `AI APIs` | [![GitHub](https://img.shields.io/badge/-Repo-181717?style=flat&logo=github)](https://github.com/chams99/fitness_app) |
-| <img src="https://api.iconify.design/lucide/refresh-cw.svg?color=%238E54E9" width="16" height="16" align="absmiddle"/> **Unit Converter** | All-in-one conversion: length, weight, temp, energy & more | `Next.js` `React` `Tailwind` | [![Live](https://img.shields.io/badge/-Live-00C7B7?style=flat&logo=netlify&logoColor=white)](https://unit-converter-sq3u.vercel.app/) |
+| <img src="https://api.iconify.design/lucide/database.svg?color=%238E54E9" width="16" height="16" align="absmiddle"/> **DB Manager AI** | AI-powered database manager with WebSocket real-time support | `Python` `WebSocket` `AI` | [![GitHub](https://img.shields.io/badge/-Repo-181717?style=flat&logo=github)](https://github.com/Chams99/db_manager_ai) |
 | <img src="https://api.iconify.design/lucide/bot.svg?color=%234776E6" width="16" height="16" align="absmiddle"/> **LoLChat – AI Bot** | League of Legends chatbot with voice synthesis & contextual NLP | `FastAPI` `OpenAI` `Docker` `spaCy` | [![GitHub](https://img.shields.io/badge/-Repo-181717?style=flat&logo=github)](https://github.com/chams99/LoLChat) |
+| <img src="https://api.iconify.design/lucide/dumbbell.svg?color=%238E54E9" width="16" height="16" align="absmiddle"/> **Fitness App** | Mobile fitness app with AI object recognition & dynamic API data | `Flutter` `Dart` `AI APIs` | [![GitHub](https://img.shields.io/badge/-Repo-181717?style=flat&logo=github)](https://github.com/chams99/fitness_app) |
+| <img src="https://api.iconify.design/lucide/shopping-bag.svg?color=%234776E6" width="16" height="16" align="absmiddle"/> **Lava – E-Commerce** | Full-stack store with auth, product management, cart & payments | `Node.js` `Express` `MongoDB` `EJS` | [![GitHub](https://img.shields.io/badge/-Repo-181717?style=flat&logo=github)](https://github.com/chams99/lava) |
+| <img src="https://api.iconify.design/lucide/refresh-cw.svg?color=%238E54E9" width="16" height="16" align="absmiddle"/> **Unit Converter** | All-in-one conversion: length, weight, temp, energy & more | `Next.js` `React` `Tailwind` | [![Live](https://img.shields.io/badge/-Live-00C7B7?style=flat&logo=vercel&logoColor=white)](https://unit-converter-sq3u.vercel.app/) |
+| <img src="https://api.iconify.design/lucide/lightbulb.svg?color=%234776E6" width="16" height="16" align="absmiddle"/> **lumina-it** | Actively developed new project | `HTML` | [![GitHub](https://img.shields.io/badge/-Repo-181717?style=flat&logo=github)](https://github.com/Chams99/lumina-it) |
 
 </div>
 
@@ -124,21 +125,6 @@ const chames = {
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=chams99&bg_color=0d1117&color=8E54E9&line=8E54E9&point=ffffff&hide_border=true&area=true&area_color=8E54E9" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chams99&bg_color=ffffff&color=4776E6&line=8E54E9&point=4776E6&hide_border=true&area=true&area_color=8E54E9" />
 </picture>
-
-</div>
-
----
-
-<h2><img src="https://api.iconify.design/lucide/terminal.svg?color=%238E54E9" width="22" height="22" align="absmiddle"/> Contribution Snake</h2>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chams99/chams99/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/chams99/chams99/output/github-contribution-grid-snake.svg" alt="snake" />
-</picture>
-
-> <img src="https://api.iconify.design/lucide/settings-2.svg?color=%23888888" width="14" height="14" align="absmiddle"/> Auto-generated via [GitHub Actions](https://github.com/Platane/snk) — add the workflow to your profile repo to activate.
 
 </div>
 
