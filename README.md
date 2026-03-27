@@ -1,141 +1,185 @@
-<h1 align="center">Chames Eddine Dhibi</h1>  
-<h3 align="center">Full Stack Web & Mobile Developer | AI Innovator</h3>  
+<div align="center">
 
-<p align="center">
-  <a href="https://chames.dhibi.tn">
-    <img src="https://img.shields.io/badge/Portfolio-chames.dhibi.tn-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://www.upwork.com/freelancers/~01ec2dc27e0c617399">
-    <img src="https://img.shields.io/badge/Upwork-Profile-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
-  </a>
-  <a href="mailto:dhibichams@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dhibichams@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Chames%20Eddine%20Dhibi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%7C%20Mobile%20%7C%20AI%20Builder&descSize=18&descAlignY=60&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,100:8E54E9&height=200&section=header&text=Chames%20Eddine%20Dhibi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%7C%20Mobile%20%7C%20AI%20Builder&descSize=18&descAlignY=60&animation=fadeIn" alt="header" />
+</picture>
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8E54E9&center=true&vCenter=true&width=600&lines=Building+AI-powered+products;React+%7C+Next.js+%7C+Flutter+developer;FastAPI+%2B+Node.js+backend+engineer;Open+to+freelance+%26+collaboration)](https://git.io/typing-svg)
 
-## 👨‍💻 About Me  
-I’m a passionate **Full Stack Web & Mobile Developer** from Tunisia.  
-I specialize in building **modern, scalable, and AI-powered applications** using cutting-edge technologies.  
-Currently pursuing a **Bachelor’s in Software Engineering (Université de Gafsa, 2023–2026)**.  
+<br/>
 
-- 🌍 Portfolio: [chames.dhibi.tn](https://chames.dhibi.tn)  
-- 💼 Freelancer on [Upwork]([https://www.upwork.com/freelancers/~01ec2dc27e0c617399](https://shorturl.at/AJA9e))  
-- ⚡ Fun fact: I love integrating **AI into real-time apps**.  
+[![Portfolio](https://img.shields.io/badge/Portfolio-chames.dhibi.tn-8E54E9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chames.dhibi.tn)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://shorturl.at/AJA9e)
+[![Email](https://img.shields.io/badge/Email-dhibichams@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhibichams@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chames-dhibi)
+
+![Profile Views](https://komarev.com/ghpvc/?username=chams99&color=8E54E9&style=flat-square&label=Profile+Views)
+
+</div>
 
 ---
 
-## 🛠️ Skills  
+<h2><img src="https://api.iconify.design/lucide/user-round.svg?color=%238E54E9" width="22" height="22" align="absmiddle"/> About Me</h2>
+
+```ts
+const chames = {
+  location:  "Tunisia",
+  role:      "Full Stack & Mobile Developer | AI Innovator",
+  education: "B.Sc. Software Engineering @ Universite de Gafsa (2023-2026)",
+  languages: ["Arabic (Native)", "English (C1)", "French (B1)"],
+  focus:     ["Real-time AI apps", "Scalable APIs", "Cross-platform mobile"],
+  fun:       "I ship AI into production before it's trendy",
+};
+```
+
+---
+
+<h2><img src="https://api.iconify.design/lucide/wrench.svg?color=%238E54E9" width="22" height="22" align="absmiddle"/> Tech Stack</h2>
+
+<div align="center">
+
+**Languages**
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,dart,python,php,mysql&theme=dark)](https://skillicons.dev)
+
+**Frontend & Mobile**
+
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,html,css&theme=dark)](https://skillicons.dev)
+
+**Backend & APIs**
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi,docker&theme=dark)](https://skillicons.dev)
+
+**BaaS / Auth / Cloud**
+
+[![My Skills](https://skillicons.dev/icons?i=firebase,supabase,gcp,vercel,netlify&theme=dark)](https://skillicons.dev)
+
+**Tooling**
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+<h2><img src="https://api.iconify.design/lucide/rocket.svg?color=%238E54E9" width="22" height="22" align="absmiddle"/> Featured Projects</h2>
+
+<div align="center">
+
+| Project | Description | Stack | Links |
+|:--------|:------------|:------|:------|
+| <img src="https://api.iconify.design/lucide/shopping-bag.svg?color=%238E54E9" width="16" height="16" align="absmiddle"/> **Lava – E-Commerce** | Full-stack store with auth, product management, cart & payments | `Node.js` `Express` `MongoDB` `EJS` | [![GitHub](https://img.shields.io/badge/-Repo-181717?style=flat&logo=github)](https://github.com/chams99/lava) |
+| <img src="https://api.iconify.design/lucide/dumbbell.svg?color=%234776E6" width="16" height="16" align="absmiddle"/> **Fitness App** | Mobile fitness app with AI object recognition & Git API data | `Flutter` `Dart` `AI APIs` | [![GitHub](https://img.shields.io/badge/-Repo-181717?style=flat&logo=github)](https://github.com/chams99/fitness_app) |
+| <img src="https://api.iconify.design/lucide/refresh-cw.svg?color=%238E54E9" width="16" height="16" align="absmiddle"/> **Unit Converter** | All-in-one conversion: length, weight, temp, energy & more | `Next.js` `React` `Tailwind` | [![Live](https://img.shields.io/badge/-Live-00C7B7?style=flat&logo=netlify&logoColor=white)](https://unit-converter-sq3u.vercel.app/) |
+| <img src="https://api.iconify.design/lucide/bot.svg?color=%234776E6" width="16" height="16" align="absmiddle"/> **LoLChat – AI Bot** | League of Legends chatbot with voice synthesis & contextual NLP | `FastAPI` `OpenAI` `Docker` `spaCy` | [![GitHub](https://img.shields.io/badge/-Repo-181717?style=flat&logo=github)](https://github.com/chams99/LoLChat) |
+
+</div>
+
+---
+
+<h2><img src="https://api.iconify.design/lucide/bar-chart-2.svg?color=%238E54E9" width="22" height="22" align="absmiddle"/> GitHub Stats</h2>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=chams99&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chams99&show_icons=true&theme=buefy&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180" />
+</picture>
+&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=chams99&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chams99&layout=compact&theme=buefy&hide_border=true&langs_count=8" height="180" />
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=chams99&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <img src="https://streak-stats.demolab.com?user=chams99&theme=buefy&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180" />
+</picture>
+
+</div>
+
+---
+
+<h2><img src="https://api.iconify.design/lucide/trophy.svg?color=%238E54E9" width="22" height="22" align="absmiddle"/> Trophies</h2>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=chams99&theme=onedark&no-frame=true&column=7&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=chams99&theme=flat&no-frame=true&column=7&margin-w=8" />
+</picture>
+
+</div>
+
+---
+
+<h2><img src="https://api.iconify.design/lucide/trending-up.svg?color=%238E54E9" width="22" height="22" align="absmiddle"/> Contribution Activity</h2>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=chams99&bg_color=0d1117&color=8E54E9&line=8E54E9&point=ffffff&hide_border=true&area=true&area_color=8E54E9" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chams99&bg_color=ffffff&color=4776E6&line=8E54E9&point=4776E6&hide_border=true&area=true&area_color=8E54E9" />
+</picture>
+
+</div>
+
+---
+
+<h2><img src="https://api.iconify.design/lucide/terminal.svg?color=%238E54E9" width="22" height="22" align="absmiddle"/> Contribution Snake</h2>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chams99/chams99/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/chams99/chams99/output/github-contribution-grid-snake.svg" alt="snake" />
+</picture>
+
+> <img src="https://api.iconify.design/lucide/settings-2.svg?color=%23888888" width="14" height="14" align="absmiddle"/> Auto-generated via [GitHub Actions](https://github.com/Platane/snk) — add the workflow to your profile repo to activate.
+
+</div>
+
+---
+
+<h2><img src="https://api.iconify.design/lucide/briefcase.svg?color=%238E54E9" width="22" height="22" align="absmiddle"/> Experience &amp; Education</h2>
 
 <table>
   <tr>
-    <td><b>Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-    </td>
+    <td width="24"><img src="https://api.iconify.design/lucide/map-pin.svg?color=%238E54E9" width="16" height="16"/></td>
+    <td><b>Freelance Web Developer</b> &nbsp;<code>2025 – Present</code><br/>E-commerce platforms, AI-powered apps &amp; portfolio websites</td>
   </tr>
   <tr>
-    <td><b>Frontend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" />
-    </td>
+    <td><img src="https://api.iconify.design/lucide/map-pin.svg?color=%238E54E9" width="16" height="16"/></td>
+    <td><b>Python Programming Training — Go My Code</b> &nbsp;<code>2022</code><br/>Python fundamentals, web frameworks &amp; modern dev practices</td>
   </tr>
   <tr>
-    <td><b>Backend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-    </td>
+    <td><img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%234776E6" width="16" height="16"/></td>
+    <td><b>B.Sc. Software Engineering — Université de Gafsa</b> &nbsp;<code>2023 – 2026</code></td>
   </tr>
   <tr>
-    <td><b>BaaS / AaaS</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
-      <img src="https://img.shields.io/badge/Clerk-0C3CFF?style=flat&logo=clerk&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>DevOps & Cloud</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
-      <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" />
-      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" />
-      <img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat&logo=hostinger&logoColor=white" />
-    </td>
+    <td><img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%234776E6" width="16" height="16"/></td>
+    <td><b>Baccalaureate in Mathematics — L.H.B.G</b> &nbsp;<code>2024</code></td>
   </tr>
 </table>
 
 ---
 
-## 🚀 Featured Projects  
+<h2><img src="https://api.iconify.design/lucide/handshake.svg?color=%238E54E9" width="22" height="22" align="absmiddle"/> Let's Connect</h2>
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <h3>Lava – E-commerce Platform</h3>
-      <p>Full-stack e-commerce app with authentication, product management, cart, and payment integration.</p>
-      <a href="https://github.com/chams99/lava" target="_blank">
-        <img src="https://chames.dhibi.tn/images/optimized/ecommerce-large.webp" width="350"/>
-      </a>
-      <p><b>Stack:</b> Node.js, Express, MongoDB, EJS</p>
-    </td>
-    <td width="50%" align="center">
-      <h3>Fitness App</h3>
-      <p>Mobile fitness app with AI integration, object recognition, and Git APIs for dynamic data.</p>
-      <a href="https://github.com/chams99/fitness_app" target="_blank">
-        <img src="https://chames.dhibi.tn/images/optimized/Fitness-large.webp" width="350"/>
-      </a>
-      <p><b>Stack:</b> Flutter, Dart, AI APIs</p>
-    </td>
-  </tr>
-    <tr>
-    <td width="50%" align="center">
-      <h3>Unit Converter</h3>
-      <p>All-in-one unit conversion web app supporting length, weight, temperature, energy, and more.</p>
-      <a href="https://unit-converter-sq3u.vercel.app/" target="_blank">
-        <img src="https://chames.dhibi.tn/images/optimized/converter-large.webp" width="350"/>
-      </a>
-      <p><b>Stack:</b> Next.js, React, Tailwind CSS</p>
-    </td>
-    <td width="50%" align="center">
-      <h3>LoLChat – AI Chatbot</h3>
-      <p>AI-powered League of Legends chatbot with voice synthesis and contextual NLP.</p>
-      <a href="https://github.com/chams99/LoLChat" target="_blank">
-        <img src="https://chames.dhibi.tn/images/optimized/lol-large.webp" width="350"/>
-      </a>
-      <p><b>Stack:</b> FastAPI, OpenAI API, Docker, spaCy</p>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
----
+If you want to build something great — I'm one message away.
 
-## 💼 Experience  
-- *Freelance Web Developer* — 2025  
-  Worked on client projects in e-commerce, AI-powered apps, and portfolio websites.  
-- *Python Programming Training (Go My Code)* — 2022  
-  Intensive training in Python, web frameworks, and modern development practices.  
+[![Portfolio](https://img.shields.io/badge/Portfolio-chames.dhibi.tn-8E54E9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chames.dhibi.tn)
+[![Email](https://img.shields.io/badge/Email-dhibichams@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhibichams@gmail.com)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://shorturl.at/AJA9e)
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E54E9,100:4776E6&height=120&section=footer&animation=fadeIn" alt="footer" />
+</picture>
 
-## 🎓 Education  
-- *B.Sc. in Software Engineering* — Université de Gafsa (2023–2026)  
-- *Baccalaureate in Mathematics — L.H.B.G (2024)  
-
----
-
-## 🌍 Languages  
-- **Arabic** — Native  
-- **English** — Professional Proficiency (C1)  
-- **French** — Intermediate (B1)  
+</div>
