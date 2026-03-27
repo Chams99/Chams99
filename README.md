@@ -164,7 +164,7 @@ If you want to build something great — I'm one message away.
 [![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://shorturl.at/AJA9e)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ff7e00,50:ffb347,100:00c853&height=120&section=footer&animation=fadeIn" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E54E9,100:4776E6&height=120&section=footer&animation=fadeIn" alt="footer" />
 </picture>
 
