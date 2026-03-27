@@ -5,7 +5,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,100:8E54E9&height=200&section=header&text=Chames%20Eddine%20Dhibi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%7C%20Mobile%20%7C%20AI%20Builder&descSize=18&descAlignY=60&animation=fadeIn" alt="header" />
 </picture>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8E54E9&center=true&vCenter=true&width=600&lines=Building+AI-powered+products;React+%7C+Next.js+%7C+Flutter+developer;FastAPI+%2B+Node.js+backend+engineer;Open+to+freelance+%26+collaboration)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00c853&center=true&vCenter=true&width=600&lines=Building+AI-powered+products;React+%7C+Next.js+%7C+Flutter+developer;FastAPI+%2B+Node.js+backend+engineer;Open+to+freelance+%26+collaboration)](https://git.io/typing-svg)
 
 <br/>
 
@@ -14,7 +14,7 @@
 [![Email](https://img.shields.io/badge/Email-dhibichams@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhibichams@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chames-dhibi)
 
-![Profile Views](https://komarev.com/ghpvc/?username=chams99&color=8E54E9&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=chams99&color=00c853&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -122,8 +122,8 @@ const chames = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=chams99&bg_color=0d1117&color=8E54E9&line=8E54E9&point=ffffff&hide_border=true&area=true&area_color=8E54E9" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chams99&bg_color=ffffff&color=4776E6&line=8E54E9&point=4776E6&hide_border=true&area=true&area_color=8E54E9" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=chams99&bg_color=0d1117&color=00c853&line=8E54E9&point=ffffff&hide_border=true&area=true&area_color=00c853" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chams99&bg_color=ffffff&color=4776E6&line=8E54E9&point=4776E6&hide_border=true&area=true&area_color=00c853" />
 </picture>
 
 </div>
