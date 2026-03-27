@@ -1,7 +1,7 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Chames%20Eddine%20Dhibi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%7C%20Mobile%20%7C%20AI%20Builder&descSize=18&descAlignY=60&animation=fadeIn" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ff7e00,50:ffb347,100:00c853&height=200&section=header&text=Chames%20Eddine%20Dhibi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%7C%20Mobile%20%7C%20AI%20Builder&descSize=18&descAlignY=60&animation=fadeIn" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,100:8E54E9&height=200&section=header&text=Chames%20Eddine%20Dhibi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%7C%20Mobile%20%7C%20AI%20Builder&descSize=18&descAlignY=60&animation=fadeIn" alt="header" />
 </picture>
 
