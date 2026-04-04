@@ -12,7 +12,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-chames.dhibi.tn-ff7e00?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chames.dhibi.tn)
 [![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01ec2dc27e0c617399)
 [![Email](https://img.shields.io/badge/Email-dhibichams@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhibichams@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chames-dhibi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chamesdh/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chams99&color=00c853&style=flat-square&label=Profile+Views)
 
