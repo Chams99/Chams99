@@ -76,45 +76,6 @@ const chames = {
 | <img src="https://api.iconify.design/lucide/lightbulb.svg?color=%234776E6" width="16" height="16" align="absmiddle"/> **lumina-it** | Actively developed new project | `HTML` | [![GitHub](https://img.shields.io/badge/-Repo-181717?style=flat&logo=github)](https://github.com/Chams99/lumina-it) |
 
 </div>
-
----
-
-<h2><img src="https://api.iconify.design/lucide/bar-chart-2.svg?color=%23ff7e00" width="22" height="22" align="absmiddle"/> GitHub Stats</h2>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=chams99&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-  <img src="https://github-readme-stats.vercel.app/api?username=chams99&show_icons=true&theme=buefy&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180" />
-</picture>
-&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=chams99&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chams99&layout=compact&theme=buefy&hide_border=true&langs_count=8" height="180" />
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=chams99&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-  <img src="https://streak-stats.demolab.com?user=chams99&theme=buefy&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180" />
-</picture>
-
-</div>
-
----
-
-<h2><img src="https://api.iconify.design/lucide/trophy.svg?color=%23ff7e00" width="22" height="22" align="absmiddle"/> Trophies</h2>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=chams99&theme=onedark&no-frame=true&column=7&margin-w=8" />
-  <img src="https://github-profile-trophy.vercel.app/?username=chams99&theme=flat&no-frame=true&column=7&margin-w=8" />
-</picture>
-
-</div>
-
 ---
 
 <h2><img src="https://api.iconify.design/lucide/trending-up.svg?color=%23ff7e00" width="22" height="22" align="absmiddle"/> Contribution Activity</h2>
