@@ -10,7 +10,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-chames.dhibi.tn-ff7e00?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chames.dhibi.tn)
-[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://shorturl.at/AJA9e)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01ec2dc27e0c617399)
 [![Email](https://img.shields.io/badge/Email-dhibichams@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhibichams@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chames-dhibi)
 
@@ -122,7 +122,7 @@ If you want to build something great — I'm one message away.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-chames.dhibi.tn-ff7e00?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chames.dhibi.tn)
 [![Email](https://img.shields.io/badge/Email-dhibichams@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhibichams@gmail.com)
-[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://shorturl.at/AJA9e)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01ec2dc27e0c617399)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ff7e00,50:ffb347,100:00c853&height=120&section=footer&animation=fadeIn" />
