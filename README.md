@@ -21,8 +21,6 @@
 [![Email](https://img.shields.io/badge/Email-dhibichams@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhibichams@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chamesdh/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=chams99&color=00c853&style=flat-square&label=Profile+Views)
-
 </div>
 
 ---
@@ -45,9 +43,9 @@ const chames = {
 
 <div align="center">
 
-**Languages**
+**Languages & markup**
 
-[![JavaScript, TypeScript, Dart, Python, PHP, MySQL, and HTML](https://skillicons.dev/icons?i=js,ts,dart,python,php,mysql,html&theme=dark)](https://skillicons.dev)
+[![JavaScript, TypeScript, Dart, Python, PHP, and HTML](https://skillicons.dev/icons?i=js,ts,dart,python,php,html&theme=dark)](https://skillicons.dev)
 
 **Frontend & Mobile**
 
@@ -57,9 +55,9 @@ const chames = {
 
 [![Node.js, Express, FastAPI, and Docker](https://skillicons.dev/icons?i=nodejs,express,fastapi,docker&theme=dark)](https://skillicons.dev)
 
-**BaaS / Auth / Cloud**
+**Data, BaaS & Cloud**
 
-[![Firebase, Supabase, Google Cloud, Vercel, and Netlify](https://skillicons.dev/icons?i=firebase,supabase,gcp,vercel,netlify&theme=dark)](https://skillicons.dev)
+[![MySQL, Firebase, Supabase, Google Cloud, Vercel, and Netlify](https://skillicons.dev/icons?i=mysql,firebase,supabase,gcp,vercel,netlify&theme=dark)](https://skillicons.dev)
 
 **Tooling**
 
@@ -69,33 +67,43 @@ const chames = {
 
 ---
 
-<h2><img src="https://api.iconify.design/lucide/rocket.svg?color=%23ff7e00" width="22" height="22" align="absmiddle" alt=""/> Featured Projects</h2>
+<h2><img src="https://api.iconify.design/lucide/rocket.svg?color=%23ff7e00" width="22" height="22" align="absmiddle" alt=""/> Selected Work</h2>
 
-<div align="center">
+### PrintClub — Photo Print Studio
 
-| Project | Description | Stack | Links |
-|:--------|:------------|:------|:------|
-| <img src="https://api.iconify.design/lucide/shopping-bag.svg?color=%23ff7e00" width="16" height="16" align="absmiddle" alt=""/> **PrintClub — Photo Print Studio** | A print-aware photo editor with guided setup, editable templates, previews, and a demo request flow. | `TanStack Start` `React` `Elysia` `Better Auth` | [![Live](https://img.shields.io/badge/-Live-00C7B7?style=flat&logo=vercel&logoColor=white)](https://printclub.chames.tn/) [![Earlier public version](https://img.shields.io/badge/-Earlier%20public%20version-181717?style=flat&logo=github&logoColor=white)](https://github.com/Chams99/Photo-Printing-Order) |
-| <img src="https://api.iconify.design/lucide/database.svg?color=%234776E6" width="16" height="16" align="absmiddle" alt=""/> **AssistantAI** | An assistant platform for grounded database, website, and manual knowledge workflows. | `Bun` `Express` `PostgreSQL` `Redis` `React` `OpenRouter` | [![Live](https://img.shields.io/badge/-Live-00C7B7?style=flat&logo=vercel&logoColor=white)](https://dbmanager.chames.tn/) |
-| <img src="https://api.iconify.design/lucide/trending-up.svg?color=%23ff7e00" width="16" height="16" align="absmiddle" alt=""/> **WebGrade Analyzer** | A developer-facing website audit tool for performance, accessibility, SEO, and security signals. | `Next.js` `TypeScript` `PageSpeed API` `Docker` | [![Live](https://img.shields.io/badge/-Live-00C7B7?style=flat&logo=vercel&logoColor=white)](https://webgrade.chames.tn/) [![Public repo](https://img.shields.io/badge/-Public%20repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Chams99/WebGrade) |
-| <img src="https://api.iconify.design/lucide/orbit.svg?color=%234776E6" width="16" height="16" align="absmiddle" alt=""/> **SSpace Astronomy Explorer** | A full-stack astronomy explorer with Stellarium sky rendering and a 24-hour observing planner. | `Next.js` `Elysia/Bun` `PostgreSQL` `Stellarium` | [![Live](https://img.shields.io/badge/-Live-00C7B7?style=flat&logo=vercel&logoColor=white)](https://sspace.chames.tn/) |
-| <img src="https://api.iconify.design/lucide/refresh-cw.svg?color=%23ff7e00" width="16" height="16" align="absmiddle" alt=""/> **Universal Convertal** | A conversion workbench for 73 units, reference currency rates, and image conversion. | `Next.js` `Fastify` `TypeScript` `Sharp` `Turborepo` `Docker` | [![Live](https://img.shields.io/badge/-Live-00C7B7?style=flat&logo=vercel&logoColor=white)](https://units.chames.tn/) [![Related public repository](https://img.shields.io/badge/-Related%20public%20repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/Chams99/Unit-Converter) |
-| <img src="https://api.iconify.design/lucide/stethoscope.svg?color=%234776E6" width="16" height="16" align="absmiddle" alt=""/> **Dent Dental Clinic** | A dental-clinic website concept designed to feel calm, clear, and trusted. | `Next.js` `Web design` | [![Live demo](https://img.shields.io/badge/-Live%20demo-00C7B7?style=flat&logo=vercel&logoColor=white)](https://dent-phi.vercel.app/) |
+A print-aware photo editor with guided setup, editable templates, previews, and a demo request flow.
 
-</div>
+<p align="center"><a href="https://printclub.chames.tn/"><img src="https://chames.tn/generated-images/photo-printing-order/card.webp" width="640" alt="PrintClub homepage showing a custom photo-print product preview and Create a print button"/></a></p>
 
-<h3><img src="https://api.iconify.design/lucide/bot.svg?color=%234776E6" width="20" height="20" align="absmiddle" alt=""/> From the archive</h3>
+[![Live demo](https://img.shields.io/badge/-Live%20demo-00C7B7?style=flat&logo=vercel&logoColor=white)](https://printclub.chames.tn/) [![Earlier public version](https://img.shields.io/badge/-Earlier%20public%20version-181717?style=flat&logo=github&logoColor=white)](https://github.com/Chams99/Photo-Printing-Order)
 
-**LoLChat** — League of Legends champion chat with character-specific responses and themed UI. `JavaScript` `OpenRouter` [![Live](https://img.shields.io/badge/-Live-00C7B7?style=flat&logo=vercel&logoColor=white)](https://lolchat.vercel.app/) [![Public repo](https://img.shields.io/badge/-Public%20repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Chams99/Lolchat)
----
+### AssistantAI
 
-<h2><img src="https://api.iconify.design/lucide/trending-up.svg?color=%23ff7e00" width="22" height="22" align="absmiddle" alt=""/> Contribution Activity</h2>
+An assistant platform for grounded database, website, and manual knowledge workflows.
 
-<div align="center">
+<p align="center"><a href="https://dbmanager.chames.tn/"><img src="https://chames.tn/generated-images/assistant-ai/card.webp" width="640" alt="AssistantAI landing page introducing database, website, and manual knowledge assistants"/></a></p>
 
-<p><a href="https://github.com/Chams99"><img src="https://ghchart.rshah.org/ff7e00/Chams99" alt="GitHub contribution chart" width="100%"/></a></p>
+[![Live demo](https://img.shields.io/badge/-Live%20demo-00C7B7?style=flat&logo=vercel&logoColor=white)](https://dbmanager.chames.tn/)
 
-</div>
+### WebGrade Analyzer
+
+A developer-facing website audit tool for performance, accessibility, SEO, and security signals.
+
+<p align="center"><a href="https://webgrade.chames.tn/"><img src="https://chames.tn/generated-images/webgrade-analyzer/card.webp" width="640" alt="WebGrade homepage with URL scanner controls and a sample report preview"/></a></p>
+
+`Next.js` `TypeScript` `PageSpeed API` `Docker`
+
+[![Live demo](https://img.shields.io/badge/-Live%20demo-00C7B7?style=flat&logo=vercel&logoColor=white)](https://webgrade.chames.tn/) [![Public repo](https://img.shields.io/badge/-Public%20repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Chams99/WebGrade)
+
+### More selected work
+
+- **SSpace Astronomy Explorer** — A full-stack astronomy explorer with Stellarium sky rendering and a 24-hour observing planner. [Live demo](https://sspace.chames.tn/)
+- **Universal Convertal** — A conversion workbench for 73 units, reference currency rates, and image conversion. [Live demo](https://units.chames.tn/) | [Related public repository](https://github.com/Chams99/Unit-Converter)
+- **Dent Dental Clinic** — A dental-clinic website concept/demo. [Live demo](https://dent-phi.vercel.app/)
+
+### From the archive
+
+**LoLChat** — League of Legends champion chat with character-specific responses and themed UI. `JavaScript` `OpenRouter` [Live demo](https://lolchat.vercel.app/) | [Public repo](https://github.com/Chams99/Lolchat)
 
 ---
 
@@ -120,16 +128,20 @@ const chames = {
   </tr>
 </table>
 
----
+<details>
+  <summary>Contribution activity</summary>
+  <p align="center"><a href="https://github.com/Chams99"><img src="https://ghchart.rshah.org/ff7e00/Chams99" alt="GitHub contribution chart" width="100%"/></a></p>
+</details>
 
-<h2><img src="https://api.iconify.design/lucide/handshake.svg?color=%23ff7e00" width="22" height="22" align="absmiddle" alt=""/> Let's Connect</h2>
+---
 
 <div align="center">
 
-Find my work and contact details below.
+<h2><img src="https://api.iconify.design/lucide/handshake.svg?color=%23ff7e00" width="22" height="22" align="absmiddle" alt=""/> Let's Connect</h2>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-chames.tn-ff7e00?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chames.tn)
 [![Email](https://img.shields.io/badge/Email-dhibichams@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhibichams@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chamesdh/)
 [![Upwork](https://img.shields.io/badge/Upwork-Profile-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01ec2dc27e0c617399)
 
 <picture>
