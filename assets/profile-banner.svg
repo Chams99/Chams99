@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" role="img" aria-labelledby="banner-title banner-desc">
+  <title id="banner-title">Zellige-inspired geometric banner</title>
+  <desc id="banner-desc">Restrained eight-point gold geometry over a deep plum background.</desc>
+  <defs>
+    <linearGradient id="plum" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#09080E"/>
+      <stop offset="55%" stop-color="#17121A"/>
+      <stop offset="100%" stop-color="#09080E"/>
+    </linearGradient>
+    <pattern id="geometry" width="132" height="132" patternUnits="userSpaceOnUse">
+      <path d="M66 4 80 52 128 66 80 80 66 128 52 80 4 66 52 52Z"
+        fill="none" stroke="#C9A453" stroke-opacity=".13" stroke-width="1"/>
+      <path d="M66 22 110 66 66 110 22 66Z"
+        fill="none" stroke="#C9A453" stroke-opacity=".10" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="260" rx="20" fill="url(#plum)"/>
+  <rect width="1200" height="260" rx="20" fill="url(#geometry)" opacity=".62"/>
+  <g transform="translate(935 130)" fill="none" stroke="#C9A453">
+    <circle r="112" stroke-opacity=".19" stroke-width="1"/>
+    <path d="M0-94 20-25 94 0 20 25 0 94-20 25-94 0-20-25Z"
+      fill="#C9A453" fill-opacity=".08" stroke-opacity=".62" stroke-width="1.4"/>
+    <path d="M0-70 70 0 0 70-70 0Z" stroke-opacity=".72" stroke-width="1.2"/>
+    <path d="M0-42 12-12 42 0 12 12 0 42-12 12-42 0-12-12Z"
+      fill="#C9A453" fill-opacity=".18" stroke-opacity=".8" stroke-width="1.2"/>
+    <circle r="8" fill="#C9A453" fill-opacity=".72" stroke="none"/>
+  </g>
+  <g transform="translate(202 130) scale(.52)" fill="none" stroke="#C9A453" stroke-opacity=".36" stroke-width="1.4">
+    <path d="M0-94 20-25 94 0 20 25 0 94-20 25-94 0-20-25Z"/>
+    <path d="M0-70 70 0 0 70-70 0Z"/>
+    <circle r="18"/>
+  </g>
+</svg>

@@ -1,44 +1,63 @@
-# Chames Eddine Dhibi
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Zellige-inspired eight-point gold geometry on a deep plum background" width="100%">
+</p>
 
-**Full-stack and mobile developer | AI-focused applications**
+<h1 align="center">Chames Eddine Dhibi</h1>
 
-Tunisia · [Portfolio](https://chames.dhibi.tn) · [LinkedIn](https://www.linkedin.com/in/chamesdh/) · [Email](mailto:dhibichams@gmail.com) · [Upwork](https://www.upwork.com/freelancers/~01ec2dc27e0c617399)
+<p align="center"><strong>Full-stack &amp; mobile developer</strong><br>Building thoughtful web, mobile, and AI-enabled products.</p>
 
-## About
+<p align="center"><a href="https://chames.tn">Portfolio</a> | <a href="mailto:dhibichams@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/chamesdh/">LinkedIn</a> | <a href="https://www.upwork.com/freelancers/~01ec2dc27e0c617399">Upwork</a></p>
 
-I build web and mobile applications, with a focus on AI-enabled products, real-time features, and APIs.
+<p align="center">Based in Tunisia | Arabic (Native) | English (C1) | French (B1)</p>
 
-- **Languages:** Arabic (Native), English (C1), French (B1)
+---
+
+## Selected work
+
+### PrintClub
+
+A print-aware photo editor with guided setup, editable templates, previews, and a demo request flow.
+
+<p><a href="https://printclub.chames.tn/"><img src="https://chames.tn/generated-images/photo-printing-order/card.webp" alt="PrintClub homepage showing a custom photo-print product preview and Create a print button" width="100%"></a></p>
+
+[Live demo](https://printclub.chames.tn/) | [Earlier public version](https://github.com/Chams99/Photo-Printing-Order)
+
+### AssistantAI
+
+An AI data workspace for database, website, and manual knowledge workflows.
+
+<p><a href="https://dbmanager.chames.tn/"><img src="https://chames.tn/generated-images/assistant-ai/card.webp" alt="AssistantAI landing page introducing database, website, and manual knowledge assistants" width="100%"></a></p>
+
+[Live demo](https://dbmanager.chames.tn/)
+
+### WebGrade Analyzer
+
+A developer-facing website audit tool for performance, accessibility, SEO, and security signals.
+
+<p><a href="https://webgrade.chames.tn/"><img src="https://chames.tn/generated-images/webgrade-analyzer/card.webp" alt="WebGrade homepage with URL scanner controls and a sample report preview" width="100%"></a></p>
+
+[Live demo](https://webgrade.chames.tn/) | [Public repo](https://github.com/Chams99/WebGrade)
+
+### More selected work
+
+- **[SSpace Astronomy Explorer](https://sspace.chames.tn/)** — A full-stack astronomy explorer with a sky map and observing planner.
+- **[Universal Convertal](https://units.chames.tn/)** — A conversion workspace for units and reference currency rates. [Related public repository](https://github.com/Chams99/Unit-Converter)
+- **[Dent Dental Clinic](https://dent-phi.vercel.app/)** — A dental-clinic website concept designed to feel calm, clear, and trusted.
+
+### From the archive
+
+- **[LoLChat](https://lolchat.vercel.app/)** — League of Legends champion chat with character-specific responses and themed UI. [Public repo](https://github.com/Chams99/Lolchat)
 
 ## Technologies
 
-- **Languages:** JavaScript, TypeScript, Dart, Python, PHP, HTML
+- **Languages & markup:** JavaScript, TypeScript, Dart, Python, PHP, HTML
 - **Frontend and mobile:** React, Next.js, Flutter, Tailwind CSS
 - **Backend and APIs:** Node.js, Express, FastAPI
 - **Data and cloud services:** MySQL, Firebase, Supabase, Google Cloud, Vercel, Netlify
 
-## Selected Projects
+## Experience & education
 
-| Project | Description | Links |
-| --- | --- | --- |
-| **WebGrade** | Website audits with Lighthouse evidence and downloadable reports. | [Website](https://webgrade.chames.tn) · [Repository](https://github.com/Chams99/WebGrade) |
-| **Photo Printing Order** | Photo-print ordering experience with an interactive customization flow. | [Website](https://photo-printing-order.vercel.app) · [Repository](https://github.com/Chams99/Photo-Printing-Order) |
-| **Unit Converter** | Unit conversions across length, volume, weight, energy, and temperature. | [Repository](https://github.com/Chams99/Unit-Converter) |
-| **LoLChat** | Interactive League of Legends champion chat with character-specific responses and themed UI. | [Repository](https://github.com/Chams99/LoLChat) |
-
-### Other Projects
-
-- **DB Manager AI** — AI-powered database manager with real-time support.
-- **Fitness App** — Mobile fitness project focused on AI-assisted recognition and live API data.
-- **Lava** — E-commerce project covering authentication, product management, cart, and payments.
-
-## Experience & Education
-
-- **Freelance Web Developer** (2025–Present) — E-commerce platforms, AI-powered apps, and portfolio websites
-- **Python Programming Training, Go My Code** (2022) — Python fundamentals and web frameworks
-- **B.Sc. Software Engineering, Université de Gafsa** (2023–2026)
-- **Baccalaureate in Mathematics, L.H.B.G** (2024)
-
-## Contact
-
-For project inquiries or collaboration, [email me](mailto:dhibichams@gmail.com), connect on [LinkedIn](https://www.linkedin.com/in/chamesdh/), or visit my [portfolio](https://chames.dhibi.tn).
+- **Freelance Web Developer** | 2025–Present — E-commerce platforms, AI-powered apps, and portfolio websites
+- **Python Programming Training, Go My Code** | 2022 — Python fundamentals and web frameworks
+- **B.Sc. Software Engineering, Université de Gafsa** | 2023–2026
+- **Baccalaureate in Mathematics, L.H.B.G** | 2024
