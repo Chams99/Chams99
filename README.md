@@ -76,4 +76,4 @@ IELTS Academic 7.0 (2026) · TOEFL iBT 84 (2025) · Arabic, English, French, Ger
 
 ---
 
-Available for freelance projects. Email me at [dhibichams@gmail.com](mailto:dhibichams@gmail.com) or see more at [chames.tn](https://chames.tn).
+Open to freelance projects. Reach me at [dhibichams@gmail.com](mailto:dhibichams@gmail.com) or see more of my work at [chames.tn](https://chames.tn).
