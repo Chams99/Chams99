@@ -1,172 +1,79 @@
-<div align="center">
+<a href="https://chames.tn"><img src="assets/header.png" width="100%" alt="Chames Eddine Dhibi, full-stack developer in Gafsa, Tunisia. I build web apps, mobile apps and data tools, from the interface to the backend."/></a>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ff7e00,50:ffb347,100:00c853&height=200&section=header&text=Chames%20Eddine%20Dhibi&fontSize=42&fontColor=111111&fontAlignY=38&desc=Full%20Stack%20%7C%20Mobile%20%7C%20AI%20Builder&descSize=18&descAlignY=60&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,100:ff7e00&height=200&section=header&text=Chames%20Eddine%20Dhibi&fontSize=42&fontColor=111111&fontAlignY=38&desc=Full%20Stack%20%7C%20Mobile%20%7C%20AI%20Builder&descSize=18&descAlignY=60&animation=fadeIn" alt="Animated wave header for Chames Eddine Dhibi" />
-</picture>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00c853&center=true&vCenter=true&width=600&lines=Building+AI-powered+products;React+%7C+Next.js+%7C+Flutter+developer;FastAPI+%2B+Node.js+backend+engineer" />
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=006b32&center=true&vCenter=true&width=600&lines=Building+AI-powered+products;React+%7C+Next.js+%7C+Flutter+developer;FastAPI+%2B+Node.js+backend+engineer" alt="Building AI-powered products; React, Next.js and Flutter developer; FastAPI and Node.js backend engineer" />
-    </picture>
-  </a>
+<p>
+  <a href="https://chames.tn"><img src="assets/btn-portfolio.png" height="42" alt="View portfolio"/></a>
+  <a href="https://www.upwork.com/freelancers/~01ec2dc27e0c617399"><img src="assets/btn-upwork.png" height="42" alt="Hire me on Upwork"/></a>
+  <a href="https://www.linkedin.com/in/chamesdh/"><img src="assets/btn-linkedin.png" height="42" alt="LinkedIn"/></a>
+  <a href="mailto:dhibichams@gmail.com"><img src="assets/btn-email.png" height="42" alt="Email"/></a>
 </p>
 
-<br/>
+I hold a Licence in Computer Science (Software Engineering, 2026) and work as a freelance full-stack developer on Upwork, where I'm a Rising Talent with a 100% Job Success Score. Most of my work is in TypeScript (Next.js, React, Bun, Elysia) on PostgreSQL. I also use Python and Flutter.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-chames.tn-ff7e00?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chames.tn)
-[![Upwork](https://img.shields.io/badge/Upwork-Profile-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01ec2dc27e0c617399)
-[![Email](https://img.shields.io/badge/Email-dhibichams@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhibichams@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chamesdh/)
-
-</div>
-
----
-
-<h2><img src="https://api.iconify.design/lucide/user-round.svg?color=%23ff7e00" width="22" height="22" align="absmiddle" alt=""/> About Me</h2>
-
-```ts
-const chames = {
-  location:  "Tunisia",
-  role:      "Full Stack & Mobile Developer | AI Innovator",
-  education: "Licence in Computer Science — Software Engineering",
-  languages: ["Arabic (Native)", "English (IELTS 7.0)", "French (B1)"],
-  focus:     ["Real-time AI apps", "Scalable APIs", "Cross-platform mobile"],
-};
-```
-
----
-
-<h2><img src="https://api.iconify.design/lucide/wrench.svg?color=%23ff7e00" width="22" height="22" align="absmiddle" alt=""/> Tech Stack</h2>
-
-<div align="center">
-
-**Languages & markup**
-
-[![JavaScript, TypeScript, Dart, Python, PHP, and HTML](https://skillicons.dev/icons?i=js,ts,dart,python,php,html&theme=dark)](https://skillicons.dev)
-
-**Frontend & Mobile**
-
-[![React, Next.js, Flutter, Tailwind CSS, and CSS](https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,css&theme=dark)](https://skillicons.dev)
-
-**Backend & APIs**
-
-[![Node.js, Express, FastAPI, and Docker](https://skillicons.dev/icons?i=nodejs,express,fastapi,docker&theme=dark)](https://skillicons.dev)
-
-**Data, BaaS & Cloud**
-
-[![MySQL, Firebase, Supabase, Google Cloud, Vercel, and Netlify](https://skillicons.dev/icons?i=mysql,firebase,supabase,gcp,vercel,netlify&theme=dark)](https://skillicons.dev)
-
-**Tooling**
-
-[![Git, GitHub, Visual Studio Code, Postman, and Figma](https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark)](https://skillicons.dev)
-
-</div>
-
----
-
-<h2><img src="https://api.iconify.design/lucide/rocket.svg?color=%23ff7e00" width="22" height="22" align="absmiddle" alt=""/> Selected Work</h2>
+## Featured projects
 
 <table>
-<tbody>
 <tr>
-<td width="50%" valign="top">
-<h3>PrintClub — Photo Print Studio</h3>
-<p>A print-aware photo editor with setup guidance, editable templates, and previews.</p>
-<p align="center"><a href="https://printclub.chames.tn/"><img src="https://chames.tn/generated-images/photo-printing-order/card.webp" width="260" alt="PrintClub homepage showing a custom photo-print product preview and Create a print button"/></a></p>
-<p><a href="https://printclub.chames.tn/">Live demo</a> | <a href="https://github.com/Chams99/Photo-Printing-Order">Earlier public version</a></p>
+<td width="33%" valign="top">
+<a href="https://printclub.chames.tn"><img src="https://chames.tn/generated-images/photo-printing-order/card.webp" alt="printclub storefront" width="100%"/></a>
+<p><sub><b>01</b> · E-COMMERCE · 2026</sub></p>
+<h3>printclub</h3>
+<p>Photo print studio with an in-browser design editor. Upload, crop, add text and shapes, undo and redo, then export a print preview.</p>
+<p><sub>TanStack Start · Elysia · tRPC · Drizzle · PostgreSQL · Bun</sub></p>
+<p><a href="https://printclub.chames.tn">Live site</a> · <a href="https://github.com/Chams99/printclub">Source</a></p>
 </td>
-<td width="50%" valign="top">
-<h3>AssistantAI</h3>
-<p>An assistant platform for grounded database, website, and manual knowledge workflows.</p>
-<p align="center"><a href="https://dbmanager.chames.tn/"><img src="https://chames.tn/generated-images/assistant-ai/card.webp" width="260" alt="AssistantAI landing page introducing database, website, and manual knowledge assistants"/></a></p>
-<p><a href="https://dbmanager.chames.tn/">Live demo</a></p>
+<td width="33%" valign="top">
+<a href="https://webgrade.chames.tn"><img src="https://chames.tn/generated-images/webgrade-analyzer/card.webp" alt="WebGrade scanner and report" width="100%"/></a>
+<p><sub><b>02</b> · DEVELOPER TOOL · 2026</sub></p>
+<h3>WebGrade</h3>
+<p>Website audit tool. It runs Lighthouse on mobile and desktop and adds Chrome UX Report field data and security checks. Reports can be shared or saved as PDF.</p>
+<p><sub>Next.js · PostgreSQL · Drizzle · Better Auth · Docker</sub></p>
+<p><a href="https://webgrade.chames.tn">Live site</a> · <a href="https://github.com/Chams99/WebGrade">Source</a></p>
+</td>
+<td width="33%" valign="top">
+<a href="https://rapport.chames.tn"><img src="https://chames.tn/generated-images/rapport-auditor/card.webp" alt="Rapport Auditor review workspace" width="100%"/></a>
+<p><sub><b>03</b> · ACADEMIC WRITING TOOL · 2026</sub></p>
+<h3>Rapport Auditor</h3>
+<p>Review desk for academic reports, in English and French. It flags repetition, dense sentences, stock phrases and claims that need a source. It previews edits without changing the file.</p>
+<p><sub>Python · Flask · Redis · pytest</sub></p>
+<p><a href="https://rapport.chames.tn">Live site</a> · <a href="https://github.com/Chams99/rapport-auditor">Source</a></p>
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-<h3>WebGrade Analyzer</h3>
-<p>A website audit tool for performance, accessibility, SEO, and security signals.</p>
-<p align="center"><a href="https://webgrade.chames.tn/"><img src="https://chames.tn/generated-images/webgrade-analyzer/card.webp" width="260" alt="WebGrade homepage with URL scanner controls and a sample report preview"/></a></p>
-<p><a href="https://webgrade.chames.tn/">Live demo</a> | <a href="https://github.com/Chams99/WebGrade">Public repo</a></p>
-</td>
-<td width="50%" valign="top">
-<h3>SSpace Astronomy Explorer</h3>
-<p>An astronomy explorer with a star map and observing planner.</p>
-<p align="center"><a href="https://sspace.chames.tn/"><img src="https://chames.tn/generated-images/sspace-star-map/card.webp" width="260" alt="SSpace Astronomy Explorer star map preview"/></a></p>
-<p><a href="https://sspace.chames.tn/">Live demo</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>Universal Convertal</h3>
-<p>A conversion workbench for units, reference currency rates, and images.</p>
-<p align="center"><a href="https://units.chames.tn/"><img src="https://chames.tn/generated-images/unit-converter/card.webp" width="260" alt="Universal Convertal preview showing conversion tools"/></a></p>
-<p><a href="https://units.chames.tn/">Live demo</a> | <a href="https://github.com/Chams99/Unit-Converter">Related public repository</a></p>
-</td>
-<td width="50%" valign="top">
-<h3>Dent Dental Clinic</h3>
-<p>A dental-clinic website concept.</p>
-<p align="center"><a href="https://dent-phi.vercel.app/"><img src="https://chames.tn/generated-images/dent-dental-clinic/card.webp" width="260" alt="Dent dental clinic website concept preview"/></a></p>
-<p><a href="https://dent-phi.vercel.app/">Live demo</a></p>
-</td>
-</tr>
-</tbody>
 </table>
 
-### From the archive
+## More public work
 
-**LoLChat** — League of Legends champion chat with character-specific responses and themed UI. `JavaScript` `OpenRouter` [Live demo](https://lolchat.vercel.app/) | [Public repo](https://github.com/Chams99/Lolchat)
+| Project | What it is | Stack | Links |
+| --- | --- | --- | --- |
+| **StageursApp** | Internship management system that generates PDF student badges, built during my internship at CPG | ASP.NET Core MVC, C# | [Source](https://github.com/Chams99/StageCPG1) |
+| **Dent** | Website for a dental clinic, with a validated contact form | Next.js, Tailwind CSS, Framer Motion | [Live](https://dent-phi.vercel.app) · [Source](https://github.com/Chams99/Dent) |
+| **Meridian Capital** | Real-estate investment website | React, Vite, Tailwind CSS, Vitest | [Live](https://modern-estate-vision.vercel.app) · [Source](https://github.com/Chams99/modern-estate-vision) |
+| **FTBall** | Football gear store with product pages and a cart | Next.js, Zustand, Radix UI | [Live](https://ftball-ten.vercel.app) · [Source](https://github.com/Chams99/FTBALL) |
+| **Evolution** | Natural-selection simulator in which creatures evolve size, speed and sense range | Flutter, Dart | [Source](https://github.com/Chams99/Evolution) |
+| **LolChat** | Chat app where each League of Legends champion answers in its own voice | JavaScript, Cloudflare Pages Functions | [Live](https://lolchat.vercel.app) · [Source](https://github.com/Chams99/Lolchat) |
+
+### Also live on chames.tn (private source)
+
+- [**AssistantAI**](https://dbmanager.chames.tn): assistants that answer from a database, a website or a manual, using read-only queries
+- [**SSpace**](https://sspace.chames.tn): astronomy explorer with a sky map, an object catalog and a 24-hour observing planner
+- [**Universal Convertal**](https://units.chames.tn): converters for 73 units, currency rates and images
+
+## Tech stack
+
+- **Languages:** TypeScript, JavaScript, Python, C#, Dart, PHP, SQL
+- **Frontend and mobile:** React, Next.js, TanStack Start, Astro, Tailwind CSS, Flutter
+- **Backend:** Node.js, Bun, Elysia, Express, tRPC, Flask, FastAPI, ASP.NET Core
+- **Data:** PostgreSQL, MySQL, Redis, SQLite, Drizzle ORM
+- **Tooling:** Git, Docker, Linux, pnpm, Vite, Turborepo
+
+## Experience and education
+
+- **Full-stack developer (freelance)**, Upwork · Jul 2025 – present
+- **Final-year project intern, software engineering**, Compagnie des Phosphates de Gafsa (CPG) · Mar – May 2026
+- **Software development and cybersecurity intern**, CPG · Jun – Aug 2025
+- **Licence in Computer Science, Software Engineering**, Faculté des Sciences de Gafsa · 2023 – 2026
+
+IELTS Academic 7.0 (2026) · TOEFL iBT 84 (2025) · Arabic, English, French, German
 
 ---
 
-<h2><img src="https://api.iconify.design/lucide/briefcase.svg?color=%23ff7e00" width="22" height="22" align="absmiddle" alt=""/> Experience</h2>
-
-<table>
-<thead>
-<tr><th>Period</th><th>Role and organization</th></tr>
-</thead>
-<tbody>
-<tr><td>Jul 2025–Present</td><td><strong>Full-Stack Developer (Freelance)</strong><br/>Upwork</td></tr>
-<tr><td>Mar–May 2026</td><td><strong>Final Year Project Intern (PFE) — Software Engineering</strong><br/>Compagnie des Phosphates de Gafsa (CPG)</td></tr>
-<tr><td>Jun–Aug 2025</td><td><strong>Software Development &amp; Cybersecurity Intern</strong><br/>CPG</td></tr>
-</tbody>
-</table>
-
-<h2><img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%234776E6" width="22" height="22" align="absmiddle" alt=""/> Education &amp; Training</h2>
-
-<table>
-<thead>
-<tr><th>Period</th><th>Program and institution</th></tr>
-</thead>
-<tbody>
-<tr><td>Sep 2023–Jun 2026</td><td><strong>Licence in Computer Science — Software Engineering</strong><br/>Faculté des Sciences de Gafsa</td></tr>
-<tr><td>2024</td><td><strong>Baccalaureate in Mathematics</strong><br/>L.H.B.G</td></tr>
-<tr><td>2022</td><td><strong>Full Python Course</strong><br/>GoMyCode</td></tr>
-</tbody>
-</table>
-
-<details>
-  <summary>Contribution activity</summary>
-  <p align="center"><a href="https://github.com/Chams99"><img src="https://ghchart.rshah.org/ff7e00/Chams99" alt="GitHub contribution chart" width="100%"/></a></p>
-</details>
-
----
-
-<div align="center">
-
-<h2><img src="https://api.iconify.design/lucide/handshake.svg?color=%23ff7e00" width="22" height="22" align="absmiddle" alt=""/> Let's Connect</h2>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-chames.tn-ff7e00?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chames.tn)
-[![Email](https://img.shields.io/badge/Email-dhibichams@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhibichams@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chamesdh/)
-[![Upwork](https://img.shields.io/badge/Upwork-Profile-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01ec2dc27e0c617399)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ff7e00,50:ffb347,100:00c853&height=120&section=footer&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7e00,100:4776E6&height=120&section=footer&animation=fadeIn" alt="Decorative wave footer" />
-</picture>
-
-</div>
+Available for freelance projects. Email me at [dhibichams@gmail.com](mailto:dhibichams@gmail.com) or see more at [chames.tn](https://chames.tn).
